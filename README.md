@@ -28,7 +28,7 @@ Flask webapp which downloads marklist of student by provided .csv file and URL
 Clone the project
 
 ```bash
-  git clone https://github.com/H4K3R13/Marklist-Downloader
+  git clone https://github.com/sharathplkn/Marklist-Downloader
 ```
 
 Go to the project directory
